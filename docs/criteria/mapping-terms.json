@@ -1,0 +1,198 @@
+{
+  "Project Information": {
+    "Project Name": [
+      "Requested for Quote No",
+      "Title"
+    ],
+    "Project Description": [
+      "Introduction",
+      "Overview",
+      "Detailed Information"
+    ],
+    "Scope of Work": [
+      "Scope of RFQ",
+      "Scope of Works",
+      "Mandatory Base Services",
+      "Optional Services"
+    ],
+    "Technical/Functional Requirements": [
+      "Technical and Functional Requirements",
+      "System Architecture",
+      "External system interfaces"
+    ],
+    "Maintenance/Support Service": [
+      "Application Support & Maintenance Services",
+      "End User Support",
+      "Handover of Maintenance Support"
+    ]
+  },
+  "Commercial Terms": {
+    "Pricing Structure": [
+      "Price Schedule",
+      "Fees and Charges",
+      "Man-day Rate",
+      "Cost Breakdown"
+    ],
+    "Payment Terms": [
+      "Payment Schedule and Billing",
+      "Invoicing",
+      "Monthly Basis"
+    ],
+    "Delivery Conditions": [
+      "Handover Period",
+      "Takeover",
+      "Turnaround time"
+    ],
+    "Estimated Cost": [
+      "Estimated man-days effort",
+      "Estimated number of users"
+    ]
+  },
+  "Legal Requirements": {
+    "Contract Terms": [
+      "Master Conditions of Contract",
+      "Agreement",
+      "Terms and Conditions"
+    ],
+    "Quotation Validity Period": [
+      "Validity of RFQ"
+    ],
+    "Confidentiality Commitment": [
+      "Confidentiality and Data Protection",
+      "Non-Disclosure Agreement",
+      "Official Secrets Act"
+    ],
+    "Special Legal Requirements": [
+      "Policies and Standards",
+      "ICT Security Policy",
+      "Personal Data"
+    ]
+  },
+  "Submission Guidelines": {
+    "Submission Instructions": [
+      "Guidelines for Submission",
+      "General Layout"
+    ],
+    "Submission Method": [
+      "Portal"
+    ],
+    "Mandatory Forms": [
+      "Statement of Compliance",
+      "Contractor Information",
+      "Personnel Information",
+      "Customer References"
+    ],
+    "Submission Deadline": [
+      "Closing date and time",
+      "Notice"
+    ]
+  },
+  "Evaluation Criteria": {
+    "Evaluation Method": [
+      "Evaluation Approach",
+      "Assessment",
+      "Combined score"
+    ],
+    "Mandatory Criteria": [
+      "Critical Criteria",
+      "Debarred",
+      "Full Compliance"
+    ],
+    "Evaluation Weighting (Price/Quality)": [
+      "Price Weightage",
+      "Quality Weightage",
+      "Weightage"
+    ],
+    "Key Decision Criteria": [
+      "Quality Criteria",
+      "Points awarded",
+      "Track Record",
+      "Experience"
+    ]
+  },
+  "Risk & Mitigation": {
+    "Potential Risks": [
+      "Slippage",
+      "Vulnerability",
+      "Threats",
+      "Conflict of interest"
+    ],
+    "Mitigation Measures": [
+      "Risk Management Process",
+      "Risk Register",
+      "Preventive Measures"
+    ],
+    "Guarantee/Insurance": [
+      "Indemnify",
+      "Liquidated Damages",
+      "Acceptance standards"
+    ]
+  },
+  "Clarifications": {
+    "Clarification Points": [
+      "Enquiries",
+      "Enquiry",
+      "Doubts"
+    ],
+    "Questions from Bidders": [
+      "Contractor enquiries",
+      "Officer listed"
+    ],
+    "Responses from REQ Issuer": [
+      "Further information",
+      "Mutually agreed"
+    ]
+  },
+  "Logistics & Support": {
+    "Technical Support Requirements": [
+      "Support Hours",
+      "Operational Hours",
+      "Service Level"
+    ],
+    "Required Infrastructure": [
+      "Hosting Environment",
+      "Laptops",
+      "Software and licenses"
+    ],
+    "Implementation Timeline": [
+      "Project schedule",
+      "Gantt chart",
+      "Milestones"
+    ],
+    "Execution Location": [
+      "Contractor’s site",
+      "Customer’s premises",
+      "Based locally"
+    ]
+  },
+  "Competitor Analysis": {
+    "Potential Competitors": [
+      "Incumbent contractor",
+      "Third-party vendors"
+    ],
+    "Competitive Advantages/Disadvantages": [
+      "Proven credentials",
+      "Areas of specialisation"
+    ],
+    "Pricing Strategy": [
+      "Price Competitiveness",
+      "All inclusive"
+    ]
+  },
+  "Attachments": {
+    "List of Appendices": [
+      "Contents",
+      "Appendices",
+      "Annexes"
+    ],
+    "Attached Forms": [
+      "Format for",
+      "Excel template"
+    ],
+    "Reference Documents": [
+      "User guides",
+      "Training materials",
+      "Architecture diagram"
+    ]
+  }
+}
